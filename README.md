@@ -1,7 +1,5 @@
 # Edwin
 
-## English
-
 ### Welcome to my GitHub profile!
 I'm a passionate developer with expertise in building modern applications across multiple programming languages and technologies. I love solving problems and creating elegant solutions.
 
